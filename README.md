@@ -26,4 +26,4 @@ Primary Onboard Computer for SETECLab's Ground Station Terminal
 ### Who do I talk to? ###
 
 * [Juan J. Rojas](mailto:juan.rojas@itcr.ac.cr)
-* [Jean P. Jimenez](mailto:@gmail.com)
+* [Jean P. Jimenez](mailto:jpjimenez12@gmail.com)
